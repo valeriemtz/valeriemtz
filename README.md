@@ -35,6 +35,14 @@
   </tr>
 </table>
 
+<h2 align="center">⚡ Currently</h2>
+
+<p align="center">
+🔭 Working on: <b>data analysis and machine learning projects</b><br>
+🌱 Learning: <b>machine learning and data visualization</b><br>
+🤝 Open to: <b>collaborations and data projects</b>
+</p>
+
 <h2 align="center">🛠️ Tech stack</h2>
 
 <table align="center">
@@ -77,6 +85,14 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valeriemtz/valeriemtz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valeriemtz/valeriemtz/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/valeriemtz/valeriemtz/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
 
 <h2 align="center">📬 Let's connect</h2>
 
